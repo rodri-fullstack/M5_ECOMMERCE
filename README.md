@@ -4,7 +4,7 @@
 Rodrigo Valderrama Troncoso
 
 ## Repositorio
-https://github.com/rodri-fullstack/M5_ECOMMERCE/tree/main
+https://github.com/rodri-fullstack/M5_ECOMMERCE/
 
 ## Descripción
 Se diseñó e implementó una base de datos relacional para simular el registro de usuarios y el proceso de compras de un sistema e-commerce.
